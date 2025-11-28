@@ -16,6 +16,21 @@
 		1139E64A2EDA40F900C0673A /* Cleaner_GeminiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6492EDA40F900C0673A /* Cleaner_GeminiTests.swift */; };
 		1139E6542EDA40FA00C0673A /* Cleaner_GeminiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6532EDA40FA00C0673A /* Cleaner_GeminiUITests.swift */; };
 		1139E6562EDA40FA00C0673A /* Cleaner_GeminiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6552EDA40FA00C0673A /* Cleaner_GeminiUITestsLaunchTests.swift */; };
+		1139E6AF2EDA4B2E00C0673A /* CustomCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E69E2EDA4B2D00C0673A /* CustomCard.swift */; };
+		1139E6B02EDA4B2E00C0673A /* PrimaryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E69F2EDA4B2D00C0673A /* PrimaryButton.swift */; };
+		1139E6B12EDA4B2E00C0673A /* SecondaryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6A02EDA4B2D00C0673A /* SecondaryButton.swift */; };
+		1139E6B22EDA4B2E00C0673A /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6A12EDA4B2D00C0673A /* Fonts.swift */; };
+		1139E6B32EDA4B2E00C0673A /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6A22EDA4B2D00C0673A /* Colors.swift */; };
+		1139E6B42EDA4B2E00C0673A /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6A42EDA4B2D00C0673A /* Router.swift */; };
+		1139E6B52EDA4B2E00C0673A /* BatteryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6A62EDA4B2D00C0673A /* BatteryService.swift */; };
+		1139E6B62EDA4B2E00C0673A /* SubscriptionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6A72EDA4B2D00C0673A /* SubscriptionService.swift */; };
+		1139E6B72EDA4B2E00C0673A /* ServiceLocator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6A82EDA4B2D00C0673A /* ServiceLocator.swift */; };
+		1139E6B82EDA4B2E00C0673A /* StorageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6A92EDA4B2D00C0673A /* StorageService.swift */; };
+		1139E6B92EDA4B2E00C0673A /* VideoService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6AA2EDA4B2D00C0673A /* VideoService.swift */; };
+		1139E6BA2EDA4B2E00C0673A /* SecretFolderService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6AB2EDA4B2D00C0673A /* SecretFolderService.swift */; };
+		1139E6BB2EDA4B2E00C0673A /* PhotoService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6AC2EDA4B2D00C0673A /* PhotoService.swift */; };
+		1139E6BC2EDA4B2E00C0673A /* LogService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6AD2EDA4B2D00C0673A /* LogService.swift */; };
+		1139E6BD2EDA4B2E00C0673A /* ContactsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1139E6AE2EDA4B2D00C0673A /* ContactsService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +63,21 @@
 		1139E64F2EDA40FA00C0673A /* Cleaner_GeminiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Cleaner_GeminiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1139E6532EDA40FA00C0673A /* Cleaner_GeminiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cleaner_GeminiUITests.swift; sourceTree = "<group>"; };
 		1139E6552EDA40FA00C0673A /* Cleaner_GeminiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cleaner_GeminiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1139E69E2EDA4B2D00C0673A /* CustomCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCard.swift; sourceTree = "<group>"; };
+		1139E69F2EDA4B2D00C0673A /* PrimaryButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrimaryButton.swift; sourceTree = "<group>"; };
+		1139E6A02EDA4B2D00C0673A /* SecondaryButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondaryButton.swift; sourceTree = "<group>"; };
+		1139E6A12EDA4B2D00C0673A /* Fonts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
+		1139E6A22EDA4B2D00C0673A /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		1139E6A42EDA4B2D00C0673A /* Router.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		1139E6A62EDA4B2D00C0673A /* BatteryService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BatteryService.swift; sourceTree = "<group>"; };
+		1139E6A72EDA4B2D00C0673A /* SubscriptionService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubscriptionService.swift; sourceTree = "<group>"; };
+		1139E6A82EDA4B2D00C0673A /* ServiceLocator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceLocator.swift; sourceTree = "<group>"; };
+		1139E6A92EDA4B2D00C0673A /* StorageService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StorageService.swift; sourceTree = "<group>"; };
+		1139E6AA2EDA4B2D00C0673A /* VideoService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoService.swift; sourceTree = "<group>"; };
+		1139E6AB2EDA4B2D00C0673A /* SecretFolderService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecretFolderService.swift; sourceTree = "<group>"; };
+		1139E6AC2EDA4B2D00C0673A /* PhotoService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoService.swift; sourceTree = "<group>"; };
+		1139E6AD2EDA4B2D00C0673A /* LogService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogService.swift; sourceTree = "<group>"; };
+		1139E6AE2EDA4B2D00C0673A /* ContactsService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactsService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +108,8 @@
 		1139E6272EDA40F600C0673A = {
 			isa = PBXGroup;
 			children = (
+				1139E69B2EDA4B2D00C0673A /* Core */,
+				1139E6A52EDA4B2D00C0673A /* Services */,
 				1139E6322EDA40F600C0673A /* Cleaner_Gemini */,
 				1139E6482EDA40F900C0673A /* Cleaner_GeminiTests */,
 				1139E6522EDA40FA00C0673A /* Cleaner_GeminiUITests */,
@@ -131,6 +163,61 @@
 				1139E6552EDA40FA00C0673A /* Cleaner_GeminiUITestsLaunchTests.swift */,
 			);
 			path = Cleaner_GeminiUITests;
+			sourceTree = "<group>";
+		};
+		1139E69B2EDA4B2D00C0673A /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				1139E69C2EDA4B2D00C0673A /* DesignSystem */,
+				1139E6A32EDA4B2D00C0673A /* Utilities */,
+			);
+			name = Core;
+			path = Cleaner_Gemini/Core;
+			sourceTree = "<group>";
+		};
+		1139E69C2EDA4B2D00C0673A /* DesignSystem */ = {
+			isa = PBXGroup;
+			children = (
+				1139E69D2EDA4B2D00C0673A /* Components */,
+				1139E6A12EDA4B2D00C0673A /* Fonts.swift */,
+				1139E6A22EDA4B2D00C0673A /* Colors.swift */,
+			);
+			path = DesignSystem;
+			sourceTree = "<group>";
+		};
+		1139E69D2EDA4B2D00C0673A /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				1139E69E2EDA4B2D00C0673A /* CustomCard.swift */,
+				1139E69F2EDA4B2D00C0673A /* PrimaryButton.swift */,
+				1139E6A02EDA4B2D00C0673A /* SecondaryButton.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		1139E6A32EDA4B2D00C0673A /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				1139E6A42EDA4B2D00C0673A /* Router.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		1139E6A52EDA4B2D00C0673A /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				1139E6A62EDA4B2D00C0673A /* BatteryService.swift */,
+				1139E6A72EDA4B2D00C0673A /* SubscriptionService.swift */,
+				1139E6A82EDA4B2D00C0673A /* ServiceLocator.swift */,
+				1139E6A92EDA4B2D00C0673A /* StorageService.swift */,
+				1139E6AA2EDA4B2D00C0673A /* VideoService.swift */,
+				1139E6AB2EDA4B2D00C0673A /* SecretFolderService.swift */,
+				1139E6AC2EDA4B2D00C0673A /* PhotoService.swift */,
+				1139E6AD2EDA4B2D00C0673A /* LogService.swift */,
+				1139E6AE2EDA4B2D00C0673A /* ContactsService.swift */,
+			);
+			name = Services;
+			path = Cleaner_Gemini/Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,10 +350,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1139E6B22EDA4B2E00C0673A /* Fonts.swift in Sources */,
+				1139E6B32EDA4B2E00C0673A /* Colors.swift in Sources */,
+				1139E6B62EDA4B2E00C0673A /* SubscriptionService.swift in Sources */,
+				1139E6BD2EDA4B2E00C0673A /* ContactsService.swift in Sources */,
+				1139E6B52EDA4B2E00C0673A /* BatteryService.swift in Sources */,
+				1139E6BC2EDA4B2E00C0673A /* LogService.swift in Sources */,
+				1139E6B92EDA4B2E00C0673A /* VideoService.swift in Sources */,
+				1139E6B72EDA4B2E00C0673A /* ServiceLocator.swift in Sources */,
+				1139E6B42EDA4B2E00C0673A /* Router.swift in Sources */,
+				1139E6BA2EDA4B2E00C0673A /* SecretFolderService.swift in Sources */,
+				1139E6B02EDA4B2E00C0673A /* PrimaryButton.swift in Sources */,
 				1139E63D2EDA40F900C0673A /* Persistence.swift in Sources */,
 				1139E6402EDA40F900C0673A /* Cleaner_Gemini.xcdatamodeld in Sources */,
+				1139E6B12EDA4B2E00C0673A /* SecondaryButton.swift in Sources */,
+				1139E6AF2EDA4B2E00C0673A /* CustomCard.swift in Sources */,
 				1139E6362EDA40F600C0673A /* ContentView.swift in Sources */,
+				1139E6BB2EDA4B2E00C0673A /* PhotoService.swift in Sources */,
 				1139E6342EDA40F600C0673A /* Cleaner_GeminiApp.swift in Sources */,
+				1139E6B82EDA4B2E00C0673A /* StorageService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
